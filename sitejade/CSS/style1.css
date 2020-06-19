@@ -1,0 +1,37 @@
+body{
+	font-family: Century Gothic;
+		background: rgb(196,168,218);
+background: linear-gradient(176deg, rgba(196,168,218,1) 0%, rgba(201,178,201,1) 82%);
+	color: white;
+	margin: 5px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	
+	padding: 0.3px 
+}
+
+.title{
+
+	margin-top: 70px;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+
+.body{
+	margin-left: 100px;
+	margin-top: 50px;
+	padding: 0px;
+}
+
+
+img{
+	margin-left: 5px;
+	margin-top: 0px;
+  padding: 20px;
+    height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+}

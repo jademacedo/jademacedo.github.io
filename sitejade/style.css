@@ -1,0 +1,41 @@
+
+body{
+    background-color:#C4A8DA;
+    background-image:url(dog.jpg);
+    background-position:center;
+    background-size:cover;
+    background-blend-mode:soft-light;
+    font-family: Century Gothic;
+}
+
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+
+
+.button{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn{
+    border: 2px;
+    padding: 10px 30px;
+    color: black;
+    text-decoration: none;
+    border-color: black;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.btn:hover{
+    background-color:#C4A8DA;
+    color: white;
+}
